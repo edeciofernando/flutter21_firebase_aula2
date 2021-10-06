@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041457320624",
+    "project_id": "sucos-noite",
+    "storage_bucket": "sucos-noite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041457320624:android:e195099d1334e0b1cea175",
+        "android_client_info": {
+          "package_name": "com.example.sucos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041457320624-9rdlv07aevp26db3kr4ojg1m674j5030.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjlhkQuchQhcbIjIM1wwYPeR82hoOjnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041457320624-9rdlv07aevp26db3kr4ojg1m674j5030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
