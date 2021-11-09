@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1041457320624",
-    "project_id": "sucos-noite",
-    "storage_bucket": "sucos-noite.appspot.com"
+    "project_number": "402233511718",
+    "project_id": "sucos-manha",
+    "storage_bucket": "sucos-manha.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1041457320624:android:e195099d1334e0b1cea175",
+        "mobilesdk_app_id": "1:402233511718:android:890016553bdeef91097be7",
         "android_client_info": {
           "package_name": "com.example.sucos"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1041457320624-9rdlv07aevp26db3kr4ojg1m674j5030.apps.googleusercontent.com",
+          "client_id": "402233511718-9el1lgq99o1a735gb9j8rija11c4nudj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDvjlhkQuchQhcbIjIM1wwYPeR82hoOjnA"
+          "current_key": "AIzaSyANVi0kBH2rSxdY68Okw6mr-XE4g_4vn8U"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1041457320624-9rdlv07aevp26db3kr4ojg1m674j5030.apps.googleusercontent.com",
+              "client_id": "402233511718-9el1lgq99o1a735gb9j8rija11c4nudj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
